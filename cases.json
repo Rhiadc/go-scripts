@@ -1,0 +1,16 @@
+{
+    "case": [
+        {
+            "score":"teste",
+            "event": {"teste1": "aii", "titia": "aii"}
+        },
+        {
+            "score":"te2ste",
+            "event": {"teste2": "aii", "titia": "aii"}
+        },
+        {
+            "score":"tes3te",
+            "event": {"teste3": "aii", "titia": "aii"}
+        }
+    ]
+}
